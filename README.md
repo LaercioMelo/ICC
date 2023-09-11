@@ -1,2 +1,2 @@
 # ICC
- Trabalho final referênte a disciplina de Introdução a Ciências da Computação
+ Trabalho final referente a disciplina de Introdução a Ciências da Computação
